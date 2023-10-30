@@ -1,0 +1,13 @@
+Rust Playground
+https://play.rust-lang.org/?version=stable&mode=debug&edition=2021
+
+Gerenciador de dependências e ferramenta de build
+cargo
+cargo.toml
+[package]
+name="Aprendendo RUST"
+version="0.0.1"
+authord=["Jhoni Conzatti <jhoni.conzatti@gmail.com>"]
+
+comando para criar novo projeto gerenciado com cargo
+cargo new path
