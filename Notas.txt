@@ -11,3 +11,9 @@ authord=["Jhoni Conzatti <jhoni.conzatti@gmail.com>"]
 
 comando para criar novo projeto gerenciado com cargo
 cargo new path
+
+Para compilar um arquivo RUST
+- main.rs deve conter fn main()
+- usar comando rustc main.rs
+- serão gerados arquivio main.exe e main.pdb
+- para executar basta rodar o comando .\main.exe
