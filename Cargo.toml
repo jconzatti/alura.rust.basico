@@ -1,0 +1,13 @@
+[package]
+name="Aprendendo RUST"
+version="0.1.0"
+authord=["Jhoni Conzatti <jhoni.conzatti@gmail.com>"]
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
+[[bin]]
+name = "alura-rust-basico"
+path = "main.rs"
