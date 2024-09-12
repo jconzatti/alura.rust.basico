@@ -1,5 +1,5 @@
 [package]
-name="Aprendendo RUST"
+name="aprensdendo-rust"
 version="0.1.0"
 authord=["Jhoni Conzatti <jhoni.conzatti@gmail.com>"]
 edition = "2021"
